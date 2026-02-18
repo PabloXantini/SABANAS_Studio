@@ -4,5 +4,7 @@ SABANAS_INE_ELECCION_2012/
 *.ipynb
 *.json
 .ipynb_checkpoints/
+CD_04_PrimerProyecto_ANGEL_CRUZ.ipynb
+.ipynb_checkpoints/
 # Archivos que no se deben ignorar
 !CD_04_PrimerProyecto*.ipynb
