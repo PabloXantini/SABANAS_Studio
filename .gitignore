@@ -3,5 +3,6 @@ figuras/
 SABANAS_INE_ELECCION_2012/
 *.ipynb
 *.json
+.ipynb_checkpoints/
 # Archivos que no se deben ignorar
 !CD_04_PrimerProyecto*.ipynb
